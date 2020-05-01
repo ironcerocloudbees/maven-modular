@@ -4,7 +4,7 @@
   
   <groupId>io.jitpack.test</groupId>
   <artifactId>example-root</artifactId>
-  <version>2.3-SNAPSHOT</version>
+  <version>2.4-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>example-root</name>
   
