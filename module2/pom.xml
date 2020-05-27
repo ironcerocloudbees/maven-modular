@@ -3,12 +3,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>io.jitpack.a</groupId>
+    <groupId>io.jitpack.b</groupId>
     <artifactId>example-root</artifactId>
     <version>2.11-SNAPSHOT</version>
   </parent>
     
-  <groupId>io.jitpack.a</groupId>
+  <groupId>io.jitpack.b</groupId>
   <artifactId>module2</artifactId>
   <version>2.11-SNAPSHOT</version>
   <name>module2</name>
@@ -21,7 +21,7 @@
     
   <dependencies>
     <dependency>
-      <groupId>io.jitpack.a</groupId>
+      <groupId>io.jitpack.b</groupId>
       <artifactId>module1</artifactId>
       <version>2.11-SNAPSHOT</version>
     </dependency>      
