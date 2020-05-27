@@ -13,5 +13,6 @@ public class App
         System.out.println(GREETING);
         System.out.println(GREETING);
         System.out.println(GREETING);
+        System.out.println(GREETING);
     }
 }
