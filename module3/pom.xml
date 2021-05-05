@@ -9,7 +9,7 @@
   </parent>
     
   <groupId>io.jitpack.b</groupId>
-  <artifactId>module1</artifactId>
+  <artifactId>module3</artifactId>
   <version>2.11-SNAPSHOT</version>
   <name>module2</name>
   <url>http://maven.apache.org</url>
